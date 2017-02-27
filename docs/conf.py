@@ -54,7 +54,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Stethoscope'
-copyright = u'2017, Andrew M. White'
+copyright = u'2017, Netflix, Inc.'
 author = u'Andrew M. White'
 
 # The version info for the project you're documenting, acts as replacement for
