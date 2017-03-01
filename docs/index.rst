@@ -1,6 +1,10 @@
 Stethoscope
 ===========
 
+.. image:: ../stethoscope/static/images/giraffe.png
+   :scale: 50%
+   :alt: Stethoscope's Giraffe Logo
+
 User-Focused Security from Netflix
 ----------------------------------
 
