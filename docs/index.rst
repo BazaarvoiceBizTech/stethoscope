@@ -1,7 +1,7 @@
 Stethoscope
 ===========
 
-.. image:: ../stethoscope/static/images/giraffe.png
+.. image:: /../stethoscope/static/images/giraffe.png
    :scale: 50%
    :alt: Stethoscope's Giraffe Logo
 
